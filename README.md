@@ -1,3 +1,10 @@
+**Sección Personal**
+Soy Anderson, un futuro desarrollador Back-End que va a completar este curso avanzado de forma autodidacta. Con el objetivo de adquirir conocimientos y habilidades fundamentales de este campo de la programación, que me permitirán ser capaz de resolver cualquier problema que se presente relacionado a la programación. Hoy 31 de Marzo del 2026, inicio esta etapa de disciplina y constancia diaria. 
+***Stack Previo***:
+- Node.js con Express para el servidor
+- PostgreSQL como base de datos, y pg como driver para las queries.
+- Jest y Supertest para testing automatizado.
+
 <div align="center" style="text-align: center">
 <img src="images/ossu-logo.webp" alt="Open Source Society logo"/>
 <h3>Open Source Society University</h3>
